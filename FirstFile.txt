@@ -1,2 +1,3 @@
 This is my first file for handling git merge conflicts.
+Writing this line from Master Branch to create Conflicts with Test branch.
 Updating this File from test branch to create Conflict.
