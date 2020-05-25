@@ -1,1 +1,2 @@
 I created this file to analyze the use of git amend
+commit number 1
