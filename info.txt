@@ -2,3 +2,4 @@ I created this file to analyze the use of git amend
 commit number 1
 commit number 2
 commit number 3
+commit f1:c1
