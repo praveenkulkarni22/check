@@ -8,3 +8,5 @@ commit f1:c3
 commit master:c1
 commit master:c2
 commit master:c3
+
+commit from master for bug fix
