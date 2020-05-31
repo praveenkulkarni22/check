@@ -12,5 +12,3 @@ commit master:c3
 commit from master for bug fix
 
 commit rebase and squash 1
-
-commit rebase and squash 2
