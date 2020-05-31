@@ -16,3 +16,8 @@ squash and rebase commit 1
 squash and rebase commit 2
 
 squash and rebase commit 3
+squash and rebase commit 3
+
+Cherry pick commit 1
+
+Cherry pick commit 2
